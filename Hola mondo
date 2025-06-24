@@ -1,0 +1,21 @@
+<! DOCTYPE html> 
+<html lang="> 
+<cabeza>
+ <meta charset="UTF-8"> 
+ <título>Hoja del mundo</título> 
+    <estilo>
+        cuerpo {
+ familia tipográfica: Arial, sans-serif; 
+ margen: 20px; 
+ color de fondo: #f9f9f9; 
+        }
+        H1 {
+ Color: #336699; 
+        }
+    </estilo>
+</cabeza>
+<cuerpo>
+ <h1>Hoja del mundo</h1> 
+    <p>Este es un ejemplo de documento HTML con “Hoja Mundo” como título y contenido principal.</p>
+</cuerpo>
+</HTML>
